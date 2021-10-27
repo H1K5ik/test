@@ -1,0 +1,32 @@
+body{
+	font-family: Arial, sans-serif;
+}
+
+.main{
+	font-size: 16px;
+	
+    
+
+	
+	
+}
+.zag{
+	width: 100%;
+    position: fixed;
+    z-index: 1;
+    line-height: 35px;
+    background-color: #9999CC;
+    text-align: center;
+    top: 0;
+    left: 0;
+    font-size: 20px;
+    
+}
+.text{
+	width: 75%;
+	display: block;
+	text-align:left;
+	 margin-left: auto;
+    margin-right: auto;
+    border: 1px solid blue;
+}

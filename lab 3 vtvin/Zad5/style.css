@@ -1,0 +1,28 @@
+.main {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  display: grid;
+  grid-template-columns: 40px 40px 40px 40px 40px;
+  justify-content: center;
+  grid-column-gap: 6px;
+ 
+}
+
+.item {
+  width: 40px;
+  height: 40px;
+  color: #333;
+  text-align: center;
+  text-decoration: none;
+  line-height: 40px;
+  background-color: #ddd;
+}
+
+.item:hover {
+  background-color: #ccc;
+}
+
+.item:focus {
+  background-color: #d10953;
+  color: #fff;
+}

@@ -1,0 +1,47 @@
+body{
+	background-color: #f8f8f8;
+	
+}
+.batya{
+	
+height: 320px;
+border: 2px solid blue;	
+	
+background-color: #fff;
+	display: grid;
+	grid-template-rows: 35px 35px 35px 35px 35px 35px;
+	grid-template-columns: 180px;
+	grid-row-gap: 15px;
+
+	width: 200px;
+	
+}
+.item{
+ position: relative;
+  left: 10px;
+  top: 15px;	
+	
+	border: 2px solid #ccc;
+	
+}
+.button{
+	 position: relative;
+  left: 10px;
+  top: 15px;	
+	border: 0px;
+	width: 180px;
+	color: #FFFFFF;
+	background-color: #1cbc11;
+	
+	text-align: center;
+}
+.button:hover{
+ position: relative;
+  left: 10px;
+  top: 15px;	
+ color: #FFFFFF;
+	width: 180px;
+	background-color: #14a20a;
+	
+
+}

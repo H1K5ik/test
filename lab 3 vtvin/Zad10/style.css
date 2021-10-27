@@ -1,0 +1,59 @@
+
+.bg{
+background: url(img/bg.jpg)   no-repeat;
+width: 600px;
+height: 400px;
+position: absolute;
+ top: 0;
+ left: 100px;
+ z-index: 8;
+}	
+.asteroid{
+width: 600px;
+height: 400px;
+background: url(img/asteroid.png)  no-repeat   80% 25%;
+position: fixed;
+z-index: 6;
+}
+.planet1{
+width: 600px;
+height: 400px;
+background: url(img/planet-1.png)  no-repeat   35% 10%;
+position: fixed;
+z-index: 1;
+}
+.planet2{
+width: 600px;
+height: 400px;
+background: url(img/planet-2.png)  no-repeat   10% 30%;
+position: fixed;
+z-index: 2;
+}
+.planet3{
+width: 600px;
+height: 400px;
+background: url(img/planet-3.png)  no-repeat   40% 90%;
+position: fixed;
+z-index: 4;
+}
+.spaceship{
+width: 600px;
+height: 400px;
+background: url(img/spaceship.png)  no-repeat   25% 45%;
+position: fixed;
+z-index: 3;
+}
+.superman{
+width: 600px;
+height: 400px;
+background: url(img/superman.png)  no-repeat   95% 100%;
+position: fixed;
+z-index: 5;
+}
+.ufo{
+width: 600px;
+height: 400px;
+background: url(img/ufo.png)  no-repeat  25% 85%;
+position: fixed;
+z-index: 7;
+}
