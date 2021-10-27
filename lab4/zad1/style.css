@@ -1,0 +1,8 @@
+.both { resize: both; 
+}
+.none { resize: none; 
+}
+.horizontal { resize: horizontal; 
+}
+.vertical { resize: vertical; 
+}

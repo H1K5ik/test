@@ -1,0 +1,56 @@
+.text{
+    font-size: 16px;
+    font-family: serif;
+}
+.main1{
+   display: grid;
+   grid-template-columns: 300px 300px 300px 300px;
+   grid-column-gap: 20px;
+   grid-template-rows: 400px 400px 400px 400px;
+
+}
+.fl{
+
+
+}
+.f2{
+filter: grayscale(.75);
+   
+
+}
+.f3{
+margin: 0px 20px;
+
+   
+
+}
+.f4{
+filter: sepia(100%);
+  margin: 0px 20px; 
+}
+.f5{
+
+}
+.f6{
+ filter: saturate(300%);   
+}
+.f7{
+   margin: 0px 20px; 
+}
+.f8{
+   margin: 0px 20px; 
+   filter: hue-rotate(270deg);
+}
+.f9{
+    
+}
+.f10{
+  filter: invert(100%);  
+}
+.f11{
+   margin: 0px 20px; 
+}
+.f12{
+    margin: 0px 20px;
+    filter: contrast(30%);
+}

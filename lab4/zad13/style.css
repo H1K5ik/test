@@ -1,0 +1,64 @@
+.main{
+	display: grid;
+	grid-template-areas: 'p1 p1 p1'
+	                     'p2 p3 p4'
+    
+}
+.i1{
+	grid-area: p1;
+	text-align: center;
+		color: #A4A5AC;
+	font-size: 36px;
+}
+.i2{
+	grid-area: p2;
+    background-color: #FFD3C6;
+    margin: 10px ;
+	
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	text-align: center;
+}
+.g1{
+	color: #A4A5AC;
+	font-size: 24px;
+}
+.g2{
+	flex-wrap: wrap;
+}
+.g3{
+	width: 90%;
+	height: 7em;
+	margin: 5%;
+
+	background-color: #EEAEEF;
+}
+.g4{
+	width: 90%;
+	height: 7em;
+	margin: 5%;
+
+	background-color: #4B9BD1;	
+}
+.g5{
+	width: 90%;
+	height: 7em;
+	margin: 5%;
+
+	background-color: #67C45A;	
+}
+.i3{
+	grid-area: p3;
+	
+	    background-color: #FFD3C6;
+    margin: 10px ;
+    text-align: center;
+   
+}
+.i4{
+	grid-area: p4;
+	    background-color: #FFD3C6;
+    margin: 10px ;
+    text-align: center;
+}

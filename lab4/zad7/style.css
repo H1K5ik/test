@@ -1,0 +1,19 @@
+.d1{
+	width: 300px;
+	height: 300px;
+	margin: 50px;
+	box-shadow: 20px 10px 5px #999999;
+}
+.d2{
+	width: 300px;
+	height: 300px;
+	margin: 50px;
+	box-shadow: 20px 10px 5px #999999, -20px -10px 5px #999999;
+}
+
+.d3{
+	width: 300px;
+	height: 300px;
+	margin: 50px;
+	box-shadow: inset 10px 5px 5px #999999;
+}

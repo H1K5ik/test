@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #000000;
+}
+
+.b {
+  display: inline-block;
+  padding: 0.75em 1.5em;
+  
+  background-color: #cccccc;
+  border-radius: 0.75em;
+  box-shadow: 0 0 0.5em #cccccc;
+  border: 0;
+   cursor: url(1.png), pointer;;
+  
+  color: inherit;
+  font-family: inherit;
+  font-size: 12px;
+  text-decoration: none;
+}
+
+.b.s2 {
+  font-size: 16px;
+}
+
+.b.s3 {
+  font-size: 22px;
+}

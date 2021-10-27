@@ -1,0 +1,28 @@
+body{
+	font-family: serif;
+	font-size: 16px;
+	color: #000000;
+}
+.i1{
+	text-shadow:  8px 10px  #3D3D3D;
+}
+.i2{
+	text-shadow:  8px 10px 2px #3D3D3D;
+}
+.i3{
+	text-shadow:  -3px -3px 1px #FF0000, 3px 3px 1px #0000FF;
+}
+.i4 {
+
+color: #666666;
+
+text-shadow: 2px 2px 3px #ffffff;
+ }
+ .i5{
+ 	color: #666666;
+ 	text-shadow: -1px -1px 1px #ffffff,   1px -1px 1px #ffffff;
+ }
+ .i6{
+ 	color: #ffffff;
+ 	text-shadow: 1px 1px #000000, 1px -1px #000000, -1px 1px #000000, -1px -1px #000000;
+ }
